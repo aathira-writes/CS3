@@ -16,7 +16,7 @@ public static void main(String[] args) throws FileNotFoundException{
 	}
 
 
-	Scanner file2=new Scanner(new File("H:\\CS3\\U6\\src\\spantranslation"));
+	Scanner file2=new Scanner(new File("Q2/U6/src/spantranslation"));
 	while (file2.hasNext()) {
 	String line=file2.nextLine();
 	System.out.println(line);
