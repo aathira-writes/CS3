@@ -2,7 +2,7 @@ import java.util.*;
 import java.io.*;
 public class lab10fr {
 public static void main(String[] args) throws FileNotFoundException{
-	Scanner file1=new Scanner(new File(("H:\\CS3\\U6\\src\\spantoeng")));
+	Scanner file1=new Scanner(new File(("Q2/U6/src/spantoeng")));
 
 
 	Map<String, String> ENGLISH = new HashMap<String, String>();
